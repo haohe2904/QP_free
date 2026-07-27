@@ -5,7 +5,7 @@ The repository includes five subfolders:
 
 1. solvers – main solver routines.
 
-2. Clients – intermediate scripts that link the problem formulation to the solver.
+2. clients – intermediate scripts that link the problem formulation to the solver.
 
 3. fix_rank_function – basic utilities for fixed-rank manifolds.
 
